@@ -6,7 +6,11 @@
         Minimal test module to publish on apps.odoo.com
     """,
     'author': 'Sarah/Bolutech',
-    'license': 'LGPL-3',
+    # 价格配置 新增下面两行
+    'price': 9.99,
+    'currency': 'EUR', # 只支持 EUR / USD，默认EUR，最低 9 EUR
+    # 付费模块建议许可证改为 OPL-1
+    'license': 'OPL-1',
     'category': 'Sales Management',
     'depends': [
         'base',
