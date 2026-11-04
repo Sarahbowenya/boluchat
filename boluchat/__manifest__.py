@@ -1,10 +1,11 @@
 {
+    # 模块名称
     'name': 'My Minimal Demo BoluChat',
     # 模块版本
     'version': '18.0.1.0.0',
-    # 模块名称
-    'summary': 'Minimal demo module for Odoo Apps Store',
     # 简短介绍
+    'summary': 'Minimal demo module for Odoo Apps Store',
+    # 详细介绍
     'description': """
         Minimal test module to publish on apps.odoo.com
     """,
