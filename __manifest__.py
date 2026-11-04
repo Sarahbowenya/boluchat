@@ -1,6 +1,6 @@
 {
     'name': 'My Minimal Demo BoluChat',
-    'version': '19.0.1.0.0',
+    'version': '18.0.1.0.0',
     'summary': 'Minimal demo module for Odoo Apps Store',
     'description': """
         Minimal test module to publish on apps.odoo.com
