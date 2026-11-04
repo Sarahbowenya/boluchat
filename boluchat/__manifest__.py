@@ -7,7 +7,7 @@
     """,
     'author': 'Sarah/Bolutech',
     'license': 'LGPL-3',
-    'category': 'Uncategorized',
+    'category': 'Sales Management',
     'depends': [
         'base',
         'sale'
