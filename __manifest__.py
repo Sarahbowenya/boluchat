@@ -5,5 +5,5 @@
     'depends': ['base'],     # 全部依赖模块，缺失会扫描失败
     'author': 'sarah/bolutech',
     'summary': 'boluchat small skills',
-    'images': ['images/main_screenshot.png'] # 封面截图
+    'images': ['images/main.jpg'] # 封面截图
 }
