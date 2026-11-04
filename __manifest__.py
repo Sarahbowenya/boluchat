@@ -1,9 +1,23 @@
 {
-    'name': 'boluchat',
-    'version': '19.0.1.0.0', # 格式：odoo主版本.主.次.补丁
-    'license': 'LGPL‑3',     # 开源推荐LGPL‑3；商业闭源用OPL‑1
-    'depends': ['base'],     # 全部依赖模块，缺失会扫描失败
-    'author': 'sarah/bolutech',
-    'summary': 'boluchat small skills',
-    'images': ['images/main.jpg'] # 封面截图
+    'name': 'My Minimal Demo BoluChat',
+    'version': '18.0.1.0.0',
+    'summary': 'Minimal demo module for Odoo Apps Store',
+    'description': """
+        Minimal test module to publish on apps.odoo.com
+    """,
+    'author': 'Sarah/Bolutech',
+    'license': 'LGPL-3',
+    'category': 'Uncategorized',
+    'depends': [
+        'base'
+    ],
+    'data': [
+        # 没有xml视图就留空
+    ],
+    'installable': True,
+    'auto_install': False,
+    'application': False,
+    'images': [
+        'images/main.jpg'
+    ],
 }
