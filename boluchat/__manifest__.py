@@ -9,7 +9,8 @@
     'license': 'LGPL-3',
     'category': 'Uncategorized',
     'depends': [
-        'base'
+        'base',
+        'sale'
     ],
     'data': [
         # 没有xml视图就留空
